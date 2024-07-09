@@ -1,0 +1,27 @@
+.forgot{
+    text-align: center;
+    display: inline-block;
+    background-color: white;
+    margin-top: 40px ;
+    margin-left: 545px;
+    margin-bottom: 60px;
+    padding: 30px;
+    border-radius: 5px;
+}
+body{
+    background-color: rgb(14, 14, 14);
+    background-image: url(./desktop-wallpaper-dark-netflix-black-netflix.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.email{
+    background-color: blue;
+    color: white;
+    padding: 2px 56px;
+    max-width: 50%;
+    line-height: 20px;
+}
+h1{
+    color: red;
+    font-family: cursive;
+}
